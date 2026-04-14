@@ -1,0 +1,23 @@
+<%@ page contentType="text/html;charset=UTF-8" %>
+<style>
+    /* Footer styles */
+    .footer {
+        background-color: #111827;
+        color: white;
+        text-align: center;
+        padding: 15px 0;
+        position: fixed;
+        bottom: 0;
+        width: 100%;
+        font-family: Arial, sans-serif;
+    }
+
+    .footer p {
+        margin: 0;
+        font-size: 14px;
+    }
+</style>
+
+<div class="footer">
+    <p>&copy; 2026 My Online Shop. All Rights Reserved.</p>
+</div>
